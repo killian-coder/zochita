@@ -19,6 +19,8 @@ To install the Gin package, run the following command in your terminal:
 ```shell
 go get -u github.com/gin-gonic/gin
 
+MySQL install mysql on your machine and create a database called todo_db
+
 Running the Application
 To run the application, navigate to your project directory in the terminal and execute:
 
