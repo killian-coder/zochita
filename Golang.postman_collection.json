@@ -1,0 +1,64 @@
+{
+	"info": {
+		"_postman_id": "7e95bfc7-43ef-4ebd-933d-fa573ab69871",
+		"name": "Golang",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "9570908"
+	},
+	"item": [
+		{
+			"name": "getTodo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9090/todos",
+					"host": [
+						"localhost"
+					],
+					"port": "9090",
+					"path": [
+						"todos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "addTodo",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9090/todos",
+					"host": [
+						"localhost"
+					],
+					"port": "9090",
+					"path": [
+						"todos"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "getTodoByID",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "localhost:9090/todos",
+					"host": [
+						"localhost"
+					],
+					"port": "9090",
+					"path": [
+						"todos"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
